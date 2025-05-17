@@ -36,7 +36,6 @@
 #else
 #include <private/qgenericunixservices_p.h>
 #endif
-#endif
 
 static gboolean
 _xdp_parent_export_qt (XdpParent *parent,
